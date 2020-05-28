@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P01-MathOperation\bin\Debug\netcoreapp2.1\P01-MathOperation.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P01-MathOperation\bin\Debug\netcoreapp2.1\P01-MathOperation.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P01-MathOperation\bin\Debug\netcoreapp2.1\P01-MathOperation.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P01-MathOperation\bin\Debug\netcoreapp2.1\P01-MathOperation.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P01-MathOperation\bin\Debug\netcoreapp2.1\P01-MathOperation.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P01-MathOperation\obj\Debug\netcoreapp2.1\P01-MathOperation.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P01-MathOperation\obj\Debug\netcoreapp2.1\P01-MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P01-MathOperation\obj\Debug\netcoreapp2.1\P01-MathOperation.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P01-MathOperation\obj\Debug\netcoreapp2.1\P01-MathOperation.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P01-MathOperation\obj\Debug\netcoreapp2.1\P01-MathOperation.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P01-MathOperation\obj\Debug\netcoreapp2.1\P01-MathOperation.pdb

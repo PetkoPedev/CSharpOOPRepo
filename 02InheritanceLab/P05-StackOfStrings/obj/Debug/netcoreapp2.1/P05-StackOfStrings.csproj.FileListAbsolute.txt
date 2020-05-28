@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P05-StackOfStrings\bin\Debug\netcoreapp2.1\P05-StackOfStrings.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P05-StackOfStrings\bin\Debug\netcoreapp2.1\P05-StackOfStrings.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P05-StackOfStrings\bin\Debug\netcoreapp2.1\P05-StackOfStrings.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P05-StackOfStrings\bin\Debug\netcoreapp2.1\P05-StackOfStrings.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P05-StackOfStrings\bin\Debug\netcoreapp2.1\P05-StackOfStrings.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P05-StackOfStrings\obj\Debug\netcoreapp2.1\P05-StackOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P05-StackOfStrings\obj\Debug\netcoreapp2.1\P05-StackOfStrings.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P05-StackOfStrings\obj\Debug\netcoreapp2.1\P05-StackOfStrings.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P05-StackOfStrings\obj\Debug\netcoreapp2.1\P05-StackOfStrings.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P05-StackOfStrings\obj\Debug\netcoreapp2.1\P05-StackOfStrings.pdb

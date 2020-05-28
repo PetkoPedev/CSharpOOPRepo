@@ -1,0 +1,4 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P08-MilitaryElite\obj\Debug\netcoreapp2.1\P08-MilitaryElite.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P08-MilitaryElite\obj\Debug\netcoreapp2.1\P08-MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P08-MilitaryElite\obj\Debug\netcoreapp2.1\P08-MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P08-MilitaryElite\obj\Debug\netcoreapp2.1\P08-MilitaryElite.AssemblyInfo.cs

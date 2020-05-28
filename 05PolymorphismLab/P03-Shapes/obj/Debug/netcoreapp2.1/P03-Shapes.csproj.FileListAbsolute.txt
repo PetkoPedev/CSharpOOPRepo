@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P03-Shapes\bin\Debug\netcoreapp2.1\P03-Shapes.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P03-Shapes\bin\Debug\netcoreapp2.1\P03-Shapes.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P03-Shapes\bin\Debug\netcoreapp2.1\P03-Shapes.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P03-Shapes\bin\Debug\netcoreapp2.1\P03-Shapes.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P03-Shapes\bin\Debug\netcoreapp2.1\P03-Shapes.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P03-Shapes\obj\Debug\netcoreapp2.1\P03-Shapes.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P03-Shapes\obj\Debug\netcoreapp2.1\P03-Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P03-Shapes\obj\Debug\netcoreapp2.1\P03-Shapes.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P03-Shapes\obj\Debug\netcoreapp2.1\P03-Shapes.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P03-Shapes\obj\Debug\netcoreapp2.1\P03-Shapes.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\05PolymorphismLab\P03-Shapes\obj\Debug\netcoreapp2.1\P03-Shapes.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySpecialApp.Tests", "Workshop\MySpecialApp.Tests.csproj", "{79397B0D-C3F1-4BE3-BD74-DE5DE280D1FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySpecialApp", "MySpecialApp\MySpecialApp.csproj", "{88CBCC4F-3957-40AC-9CDC-EB68D9A7B8B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftuniTestingFramework", "SoftuniTestingFramework\SoftuniTestingFramework.csproj", "{07C8F7B3-6577-4136-BC98-CB1987149065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79397B0D-C3F1-4BE3-BD74-DE5DE280D1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79397B0D-C3F1-4BE3-BD74-DE5DE280D1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79397B0D-C3F1-4BE3-BD74-DE5DE280D1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79397B0D-C3F1-4BE3-BD74-DE5DE280D1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88CBCC4F-3957-40AC-9CDC-EB68D9A7B8B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CBCC4F-3957-40AC-9CDC-EB68D9A7B8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CBCC4F-3957-40AC-9CDC-EB68D9A7B8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CBCC4F-3957-40AC-9CDC-EB68D9A7B8B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07C8F7B3-6577-4136-BC98-CB1987149065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C8F7B3-6577-4136-BC98-CB1987149065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C8F7B3-6577-4136-BC98-CB1987149065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C8F7B3-6577-4136-BC98-CB1987149065}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA007075-CB13-45E9-BBF2-5747D4F74BF4}
+	EndGlobalSection
+EndGlobal

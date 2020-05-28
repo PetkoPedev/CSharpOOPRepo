@@ -1,0 +1,9 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\SoftuniTestingFramework\bin\Debug\netcoreapp2.1\SoftuniTestingFramework.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\SoftuniTestingFramework\bin\Debug\netcoreapp2.1\SoftuniTestingFramework.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\SoftuniTestingFramework\bin\Debug\netcoreapp2.1\SoftuniTestingFramework.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\SoftuniTestingFramework\obj\Debug\netcoreapp2.1\SoftuniTestingFramework.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\SoftuniTestingFramework\obj\Debug\netcoreapp2.1\SoftuniTestingFramework.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\SoftuniTestingFramework\obj\Debug\netcoreapp2.1\SoftuniTestingFramework.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\SoftuniTestingFramework\obj\Debug\netcoreapp2.1\SoftuniTestingFramework.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\SoftuniTestingFramework\obj\Debug\netcoreapp2.1\SoftuniTestingFramework.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\SoftuniTestingFramework\obj\Debug\netcoreapp2.1\SoftuniTestingFramework.pdb

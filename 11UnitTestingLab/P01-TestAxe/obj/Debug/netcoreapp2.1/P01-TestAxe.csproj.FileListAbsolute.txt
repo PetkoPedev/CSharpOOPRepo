@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\11UnitTestingLab\P01-TestAxe\bin\Debug\netcoreapp2.1\P01-TestAxe.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\11UnitTestingLab\P01-TestAxe\bin\Debug\netcoreapp2.1\P01-TestAxe.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\11UnitTestingLab\P01-TestAxe\bin\Debug\netcoreapp2.1\P01-TestAxe.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\11UnitTestingLab\P01-TestAxe\bin\Debug\netcoreapp2.1\P01-TestAxe.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\11UnitTestingLab\P01-TestAxe\obj\Debug\netcoreapp2.1\P01-TestAxe.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\11UnitTestingLab\P01-TestAxe\obj\Debug\netcoreapp2.1\P01-TestAxe.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\11UnitTestingLab\P01-TestAxe\obj\Debug\netcoreapp2.1\P01-TestAxe.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\11UnitTestingLab\P01-TestAxe\obj\Debug\netcoreapp2.1\P01-TestAxe.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\11UnitTestingLab\P01-TestAxe\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\11UnitTestingLab\P01-TestAxe\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\11UnitTestingLab\P01-TestAxe\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll

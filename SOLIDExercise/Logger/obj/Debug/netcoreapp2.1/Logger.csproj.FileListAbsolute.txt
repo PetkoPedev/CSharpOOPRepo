@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\SOLIDExercise\Logger\obj\Debug\netcoreapp2.1\Logger.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\SOLIDExercise\Logger\obj\Debug\netcoreapp2.1\Logger.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\SOLIDExercise\Logger\obj\Debug\netcoreapp2.1\Logger.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\SOLIDExercise\Logger\obj\Debug\netcoreapp2.1\Logger.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\SOLIDExercise\Logger\bin\Debug\netcoreapp2.1\Logger.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\SOLIDExercise\Logger\bin\Debug\netcoreapp2.1\Logger.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\SOLIDExercise\Logger\bin\Debug\netcoreapp2.1\Logger.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\SOLIDExercise\Logger\bin\Debug\netcoreapp2.1\Logger.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\SOLIDExercise\Logger\bin\Debug\netcoreapp2.1\Logger.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\SOLIDExercise\Logger\obj\Debug\netcoreapp2.1\Logger.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\SOLIDExercise\Logger\obj\Debug\netcoreapp2.1\Logger.pdb

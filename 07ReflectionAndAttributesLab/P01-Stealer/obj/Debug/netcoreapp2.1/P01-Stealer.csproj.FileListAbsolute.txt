@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\07ReflectionAndAttributesLab\P01-Stealer\bin\Debug\netcoreapp2.1\P01-Stealer.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\07ReflectionAndAttributesLab\P01-Stealer\bin\Debug\netcoreapp2.1\P01-Stealer.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\07ReflectionAndAttributesLab\P01-Stealer\bin\Debug\netcoreapp2.1\P01-Stealer.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\07ReflectionAndAttributesLab\P01-Stealer\bin\Debug\netcoreapp2.1\P01-Stealer.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\07ReflectionAndAttributesLab\P01-Stealer\bin\Debug\netcoreapp2.1\P01-Stealer.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\07ReflectionAndAttributesLab\P01-Stealer\obj\Debug\netcoreapp2.1\P01-Stealer.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\07ReflectionAndAttributesLab\P01-Stealer\obj\Debug\netcoreapp2.1\P01-Stealer.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\07ReflectionAndAttributesLab\P01-Stealer\obj\Debug\netcoreapp2.1\P01-Stealer.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\07ReflectionAndAttributesLab\P01-Stealer\obj\Debug\netcoreapp2.1\P01-Stealer.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\07ReflectionAndAttributesLab\P01-Stealer\obj\Debug\netcoreapp2.1\P01-Stealer.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\07ReflectionAndAttributesLab\P01-Stealer\obj\Debug\netcoreapp2.1\P01-Stealer.pdb

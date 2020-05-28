@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationLab\P01-SortPeopleByNameAndAge\obj\Debug\netcoreapp2.1\P01-SortPeopleByNameAndAge.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationLab\P01-SortPeopleByNameAndAge\obj\Debug\netcoreapp2.1\P01-SortPeopleByNameAndAge.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationLab\P01-SortPeopleByNameAndAge\obj\Debug\netcoreapp2.1\P01-SortPeopleByNameAndAge.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationLab\P01-SortPeopleByNameAndAge\obj\Debug\netcoreapp2.1\P01-SortPeopleByNameAndAge.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationLab\P01-SortPeopleByNameAndAge\bin\Debug\netcoreapp2.1\P01-SortPeopleByNameAndAge.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationLab\P01-SortPeopleByNameAndAge\bin\Debug\netcoreapp2.1\P01-SortPeopleByNameAndAge.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationLab\P01-SortPeopleByNameAndAge\bin\Debug\netcoreapp2.1\P01-SortPeopleByNameAndAge.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationLab\P01-SortPeopleByNameAndAge\bin\Debug\netcoreapp2.1\P01-SortPeopleByNameAndAge.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationLab\P01-SortPeopleByNameAndAge\bin\Debug\netcoreapp2.1\P01-SortPeopleByNameAndAge.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationLab\P01-SortPeopleByNameAndAge\obj\Debug\netcoreapp2.1\P01-SortPeopleByNameAndAge.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationLab\P01-SortPeopleByNameAndAge\obj\Debug\netcoreapp2.1\P01-SortPeopleByNameAndAge.pdb

@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P03-ShoppingSpree\bin\Debug\netcoreapp2.1\P03-ShoppingSpree.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P03-ShoppingSpree\bin\Debug\netcoreapp2.1\P03-ShoppingSpree.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P03-ShoppingSpree\bin\Debug\netcoreapp2.1\P03-ShoppingSpree.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P03-ShoppingSpree\bin\Debug\netcoreapp2.1\P03-ShoppingSpree.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P03-ShoppingSpree\bin\Debug\netcoreapp2.1\P03-ShoppingSpree.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P03-ShoppingSpree\obj\Debug\netcoreapp2.1\P03-ShoppingSpree.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P03-ShoppingSpree\obj\Debug\netcoreapp2.1\P03-ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P03-ShoppingSpree\obj\Debug\netcoreapp2.1\P03-ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P03-ShoppingSpree\obj\Debug\netcoreapp2.1\P03-ShoppingSpree.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P03-ShoppingSpree\obj\Debug\netcoreapp2.1\P03-ShoppingSpree.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P03-ShoppingSpree\obj\Debug\netcoreapp2.1\P03-ShoppingSpree.pdb

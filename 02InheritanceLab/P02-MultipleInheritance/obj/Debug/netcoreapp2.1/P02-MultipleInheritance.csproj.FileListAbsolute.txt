@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P02-MultipleInheritance\bin\Debug\netcoreapp2.1\P02-MultipleInheritance.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P02-MultipleInheritance\bin\Debug\netcoreapp2.1\P02-MultipleInheritance.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P02-MultipleInheritance\bin\Debug\netcoreapp2.1\P02-MultipleInheritance.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P02-MultipleInheritance\bin\Debug\netcoreapp2.1\P02-MultipleInheritance.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P02-MultipleInheritance\bin\Debug\netcoreapp2.1\P02-MultipleInheritance.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P02-MultipleInheritance\obj\Debug\netcoreapp2.1\P02-MultipleInheritance.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P02-MultipleInheritance\obj\Debug\netcoreapp2.1\P02-MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P02-MultipleInheritance\obj\Debug\netcoreapp2.1\P02-MultipleInheritance.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P02-MultipleInheritance\obj\Debug\netcoreapp2.1\P02-MultipleInheritance.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P02-MultipleInheritance\obj\Debug\netcoreapp2.1\P02-MultipleInheritance.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P02-MultipleInheritance\obj\Debug\netcoreapp2.1\P02-MultipleInheritance.pdb

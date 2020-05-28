@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P02-PointInRectangle\bin\Debug\netcoreapp2.1\P02-PointInRectangle.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P02-PointInRectangle\bin\Debug\netcoreapp2.1\P02-PointInRectangle.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P02-PointInRectangle\bin\Debug\netcoreapp2.1\P02-PointInRectangle.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P02-PointInRectangle\bin\Debug\netcoreapp2.1\P02-PointInRectangle.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P02-PointInRectangle\bin\Debug\netcoreapp2.1\P02-PointInRectangle.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P02-PointInRectangle\obj\Debug\netcoreapp2.1\P02-PointInRectangle.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P02-PointInRectangle\obj\Debug\netcoreapp2.1\P02-PointInRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P02-PointInRectangle\obj\Debug\netcoreapp2.1\P02-PointInRectangle.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P02-PointInRectangle\obj\Debug\netcoreapp2.1\P02-PointInRectangle.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P02-PointInRectangle\obj\Debug\netcoreapp2.1\P02-PointInRectangle.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P02-PointInRectangle\obj\Debug\netcoreapp2.1\P02-PointInRectangle.pdb

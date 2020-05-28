@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P04-Telephony\bin\Debug\netcoreapp2.1\P04-Telephony.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P04-Telephony\bin\Debug\netcoreapp2.1\P04-Telephony.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P04-Telephony\bin\Debug\netcoreapp2.1\P04-Telephony.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P04-Telephony\bin\Debug\netcoreapp2.1\P04-Telephony.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P04-Telephony\bin\Debug\netcoreapp2.1\P04-Telephony.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P04-Telephony\obj\Debug\netcoreapp2.1\P04-Telephony.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P04-Telephony\obj\Debug\netcoreapp2.1\P04-Telephony.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P04-Telephony\obj\Debug\netcoreapp2.1\P04-Telephony.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P04-Telephony\obj\Debug\netcoreapp2.1\P04-Telephony.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P04-Telephony\obj\Debug\netcoreapp2.1\P04-Telephony.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P04-Telephony\obj\Debug\netcoreapp2.1\P04-Telephony.pdb

@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P05-FootballTeamGenerator\bin\Debug\netcoreapp2.1\P05-FootballTeamGenerator.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P05-FootballTeamGenerator\bin\Debug\netcoreapp2.1\P05-FootballTeamGenerator.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P05-FootballTeamGenerator\bin\Debug\netcoreapp2.1\P05-FootballTeamGenerator.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P05-FootballTeamGenerator\bin\Debug\netcoreapp2.1\P05-FootballTeamGenerator.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P05-FootballTeamGenerator\bin\Debug\netcoreapp2.1\P05-FootballTeamGenerator.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P05-FootballTeamGenerator\obj\Debug\netcoreapp2.1\P05-FootballTeamGenerator.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P05-FootballTeamGenerator\obj\Debug\netcoreapp2.1\P05-FootballTeamGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P05-FootballTeamGenerator\obj\Debug\netcoreapp2.1\P05-FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P05-FootballTeamGenerator\obj\Debug\netcoreapp2.1\P05-FootballTeamGenerator.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P05-FootballTeamGenerator\obj\Debug\netcoreapp2.1\P05-FootballTeamGenerator.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P05-FootballTeamGenerator\obj\Debug\netcoreapp2.1\P05-FootballTeamGenerator.pdb

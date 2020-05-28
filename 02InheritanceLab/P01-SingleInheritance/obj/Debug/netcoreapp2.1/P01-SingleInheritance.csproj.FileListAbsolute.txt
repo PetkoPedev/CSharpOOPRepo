@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P01-SingleInheritance\bin\Debug\netcoreapp2.1\P01-SingleInheritance.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P01-SingleInheritance\bin\Debug\netcoreapp2.1\P01-SingleInheritance.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P01-SingleInheritance\bin\Debug\netcoreapp2.1\P01-SingleInheritance.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P01-SingleInheritance\bin\Debug\netcoreapp2.1\P01-SingleInheritance.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P01-SingleInheritance\bin\Debug\netcoreapp2.1\P01-SingleInheritance.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P01-SingleInheritance\obj\Debug\netcoreapp2.1\P01-SingleInheritance.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P01-SingleInheritance\obj\Debug\netcoreapp2.1\P01-SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P01-SingleInheritance\obj\Debug\netcoreapp2.1\P01-SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P01-SingleInheritance\obj\Debug\netcoreapp2.1\P01-SingleInheritance.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P01-SingleInheritance\obj\Debug\netcoreapp2.1\P01-SingleInheritance.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P01-SingleInheritance\obj\Debug\netcoreapp2.1\P01-SingleInheritance.pdb

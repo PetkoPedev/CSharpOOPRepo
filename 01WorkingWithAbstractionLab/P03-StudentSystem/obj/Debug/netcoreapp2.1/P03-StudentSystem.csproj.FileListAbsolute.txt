@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P03-StudentSystem\bin\Debug\netcoreapp2.1\P03-StudentSystem.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P03-StudentSystem\bin\Debug\netcoreapp2.1\P03-StudentSystem.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P03-StudentSystem\bin\Debug\netcoreapp2.1\P03-StudentSystem.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P03-StudentSystem\bin\Debug\netcoreapp2.1\P03-StudentSystem.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P03-StudentSystem\bin\Debug\netcoreapp2.1\P03-StudentSystem.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P03-StudentSystem\obj\Debug\netcoreapp2.1\P03-StudentSystem.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P03-StudentSystem\obj\Debug\netcoreapp2.1\P03-StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P03-StudentSystem\obj\Debug\netcoreapp2.1\P03-StudentSystem.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P03-StudentSystem\obj\Debug\netcoreapp2.1\P03-StudentSystem.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P03-StudentSystem\obj\Debug\netcoreapp2.1\P03-StudentSystem.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\01WorkingWithAbstractionLab\P03-StudentSystem\obj\Debug\netcoreapp2.1\P03-StudentSystem.pdb

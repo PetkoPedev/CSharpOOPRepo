@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P01-ClassBoxData\bin\Debug\netcoreapp2.1\P01-ClassBoxData.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P01-ClassBoxData\bin\Debug\netcoreapp2.1\P01-ClassBoxData.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P01-ClassBoxData\bin\Debug\netcoreapp2.1\P01-ClassBoxData.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P01-ClassBoxData\bin\Debug\netcoreapp2.1\P01-ClassBoxData.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P01-ClassBoxData\bin\Debug\netcoreapp2.1\P01-ClassBoxData.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P01-ClassBoxData\obj\Debug\netcoreapp2.1\P01-ClassBoxData.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P01-ClassBoxData\obj\Debug\netcoreapp2.1\P01-ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P01-ClassBoxData\obj\Debug\netcoreapp2.1\P01-ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P01-ClassBoxData\obj\Debug\netcoreapp2.1\P01-ClassBoxData.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P01-ClassBoxData\obj\Debug\netcoreapp2.1\P01-ClassBoxData.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\03EncapsulationExercises\P01-ClassBoxData\obj\Debug\netcoreapp2.1\P01-ClassBoxData.pdb

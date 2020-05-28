@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P02-MultipleImplementation\bin\Debug\netcoreapp2.1\P02-MultipleImplementation.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P02-MultipleImplementation\bin\Debug\netcoreapp2.1\P02-MultipleImplementation.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P02-MultipleImplementation\bin\Debug\netcoreapp2.1\P02-MultipleImplementation.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P02-MultipleImplementation\bin\Debug\netcoreapp2.1\P02-MultipleImplementation.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P02-MultipleImplementation\bin\Debug\netcoreapp2.1\P02-MultipleImplementation.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P02-MultipleImplementation\obj\Debug\netcoreapp2.1\P02-MultipleImplementation.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P02-MultipleImplementation\obj\Debug\netcoreapp2.1\P02-MultipleImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P02-MultipleImplementation\obj\Debug\netcoreapp2.1\P02-MultipleImplementation.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P02-MultipleImplementation\obj\Debug\netcoreapp2.1\P02-MultipleImplementation.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P02-MultipleImplementation\obj\Debug\netcoreapp2.1\P02-MultipleImplementation.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P02-MultipleImplementation\obj\Debug\netcoreapp2.1\P02-MultipleImplementation.pdb

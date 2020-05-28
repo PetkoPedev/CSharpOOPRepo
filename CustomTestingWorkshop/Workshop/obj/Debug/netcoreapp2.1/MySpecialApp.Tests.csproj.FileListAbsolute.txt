@@ -1,0 +1,14 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\Workshop\bin\Debug\netcoreapp2.1\MySpecialApp.Tests.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\Workshop\bin\Debug\netcoreapp2.1\MySpecialApp.Tests.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\Workshop\bin\Debug\netcoreapp2.1\MySpecialApp.Tests.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\Workshop\obj\Debug\netcoreapp2.1\MySpecialApp.Tests.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\Workshop\obj\Debug\netcoreapp2.1\MySpecialApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\Workshop\obj\Debug\netcoreapp2.1\MySpecialApp.Tests.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\Workshop\obj\Debug\netcoreapp2.1\MySpecialApp.Tests.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\Workshop\obj\Debug\netcoreapp2.1\MySpecialApp.Tests.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\Workshop\obj\Debug\netcoreapp2.1\MySpecialApp.Tests.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\Workshop\bin\Debug\netcoreapp2.1\MySpecialApp.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\Workshop\bin\Debug\netcoreapp2.1\SoftuniTestingFramework.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\Workshop\bin\Debug\netcoreapp2.1\MySpecialApp.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\Workshop\bin\Debug\netcoreapp2.1\SoftuniTestingFramework.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\CustomTestingWorkshop\Workshop\obj\Debug\netcoreapp2.1\MySpecialApp.Tests.csproj.CopyComplete

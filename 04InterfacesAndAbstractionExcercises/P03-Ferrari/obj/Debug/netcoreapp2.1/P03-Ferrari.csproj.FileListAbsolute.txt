@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P03-Ferrari\bin\Debug\netcoreapp2.1\P03-Ferrari.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P03-Ferrari\bin\Debug\netcoreapp2.1\P03-Ferrari.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P03-Ferrari\bin\Debug\netcoreapp2.1\P03-Ferrari.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P03-Ferrari\bin\Debug\netcoreapp2.1\P03-Ferrari.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P03-Ferrari\bin\Debug\netcoreapp2.1\P03-Ferrari.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P03-Ferrari\obj\Debug\netcoreapp2.1\P03-Ferrari.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P03-Ferrari\obj\Debug\netcoreapp2.1\P03-Ferrari.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P03-Ferrari\obj\Debug\netcoreapp2.1\P03-Ferrari.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P03-Ferrari\obj\Debug\netcoreapp2.1\P03-Ferrari.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P03-Ferrari\obj\Debug\netcoreapp2.1\P03-Ferrari.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P03-Ferrari\obj\Debug\netcoreapp2.1\P03-Ferrari.pdb

@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P04-RandomList\bin\Debug\netcoreapp2.1\P04-RandomList.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P04-RandomList\bin\Debug\netcoreapp2.1\P04-RandomList.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P04-RandomList\bin\Debug\netcoreapp2.1\P04-RandomList.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P04-RandomList\bin\Debug\netcoreapp2.1\P04-RandomList.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P04-RandomList\bin\Debug\netcoreapp2.1\P04-RandomList.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P04-RandomList\obj\Debug\netcoreapp2.1\P04-RandomList.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P04-RandomList\obj\Debug\netcoreapp2.1\P04-RandomList.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P04-RandomList\obj\Debug\netcoreapp2.1\P04-RandomList.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P04-RandomList\obj\Debug\netcoreapp2.1\P04-RandomList.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P04-RandomList\obj\Debug\netcoreapp2.1\P04-RandomList.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\02InheritanceLab\P04-RandomList\obj\Debug\netcoreapp2.1\P04-RandomList.pdb

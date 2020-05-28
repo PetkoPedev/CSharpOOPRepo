@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionLab\P02-Cars\bin\Debug\netcoreapp2.1\P02-Cars.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionLab\P02-Cars\bin\Debug\netcoreapp2.1\P02-Cars.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionLab\P02-Cars\bin\Debug\netcoreapp2.1\P02-Cars.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionLab\P02-Cars\bin\Debug\netcoreapp2.1\P02-Cars.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionLab\P02-Cars\bin\Debug\netcoreapp2.1\P02-Cars.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionLab\P02-Cars\obj\Debug\netcoreapp2.1\P02-Cars.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionLab\P02-Cars\obj\Debug\netcoreapp2.1\P02-Cars.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionLab\P02-Cars\obj\Debug\netcoreapp2.1\P02-Cars.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionLab\P02-Cars\obj\Debug\netcoreapp2.1\P02-Cars.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionLab\P02-Cars\obj\Debug\netcoreapp2.1\P02-Cars.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionLab\P02-Cars\obj\Debug\netcoreapp2.1\P02-Cars.pdb

@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P01-DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.1\P01-DefineAnInterfaceIPerson.deps.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P01-DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.1\P01-DefineAnInterfaceIPerson.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P01-DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.1\P01-DefineAnInterfaceIPerson.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P01-DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.1\P01-DefineAnInterfaceIPerson.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P01-DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.1\P01-DefineAnInterfaceIPerson.pdb
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P01-DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\P01-DefineAnInterfaceIPerson.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P01-DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\P01-DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P01-DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\P01-DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P01-DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\P01-DefineAnInterfaceIPerson.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P01-DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\P01-DefineAnInterfaceIPerson.dll
+C:\Users\Petko Pedev\source\AdvancedOOPRepos\04InterfacesAndAbstractionExcercises\P01-DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\P01-DefineAnInterfaceIPerson.pdb
