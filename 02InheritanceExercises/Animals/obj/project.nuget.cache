@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MzgtlpgBogj64pJJqMB4ofuaBBKsp+snfGEkItHp254UDrTYADvAkueCmBYPF2gJSgg6oOBebRlHG5FlGaj4wg==",
+  "dgSpecHash": "v31xnCQoeh3dkjNq5n/me4oBpLSMe/rx02qMwI0gHlk0i0Fi+V58ofVKoN3tZ+ZbEd+FmKGYYzhxOZW7CypyfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Petko Pedev\\source\\AdvancedOOPRepos\\02InheritanceExercises\\Animals\\Animals.csproj",
+  "projectFilePath": "C:\\Users\\Petko Pedev\\source\\CSharpOOPRepos\\02InheritanceExercises\\Animals\\Animals.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

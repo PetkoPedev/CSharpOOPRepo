@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mhTzLSkJcD9QIlBVrn3X9GjGB0zOWz4PKmJdaXGG0mq/iX63na95HXzAcJVo5uKdWvDqovnHkxVSUN8OakUL/Q==",
+  "dgSpecHash": "OGU+ffRwrjqQSQoGA8uEmrXfAXdyDXK1SWFOv9J7ElwZOPBkC8xiJ2n48X0SzjGwhm6tfeEM2j64h/zAN3v77Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Petko Pedev\\source\\AdvancedOOPRepos\\02InheritanceExercises\\NeedForSpeed\\NeedForSpeed.csproj",
+  "projectFilePath": "C:\\Users\\Petko Pedev\\source\\CSharpOOPRepos\\02InheritanceExercises\\NeedForSpeed\\NeedForSpeed.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

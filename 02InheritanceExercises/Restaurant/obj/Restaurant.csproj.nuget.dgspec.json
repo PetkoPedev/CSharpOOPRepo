@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Petko Pedev\\source\\AdvancedOOPRepos\\02InheritanceExercises\\Restaurant\\Restaurant.csproj": {}
+    "C:\\Users\\Petko Pedev\\source\\CSharpOOPRepos\\02InheritanceExercises\\Restaurant\\Restaurant.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Petko Pedev\\source\\AdvancedOOPRepos\\02InheritanceExercises\\Restaurant\\Restaurant.csproj": {
+    "C:\\Users\\Petko Pedev\\source\\CSharpOOPRepos\\02InheritanceExercises\\Restaurant\\Restaurant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Petko Pedev\\source\\AdvancedOOPRepos\\02InheritanceExercises\\Restaurant\\Restaurant.csproj",
+        "projectUniqueName": "C:\\Users\\Petko Pedev\\source\\CSharpOOPRepos\\02InheritanceExercises\\Restaurant\\Restaurant.csproj",
         "projectName": "Restaurant",
-        "projectPath": "C:\\Users\\Petko Pedev\\source\\AdvancedOOPRepos\\02InheritanceExercises\\Restaurant\\Restaurant.csproj",
+        "projectPath": "C:\\Users\\Petko Pedev\\source\\CSharpOOPRepos\\02InheritanceExercises\\Restaurant\\Restaurant.csproj",
         "packagesPath": "C:\\Users\\Petko Pedev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Petko Pedev\\source\\AdvancedOOPRepos\\02InheritanceExercises\\Restaurant\\obj\\",
+        "outputPath": "C:\\Users\\Petko Pedev\\source\\CSharpOOPRepos\\02InheritanceExercises\\Restaurant\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

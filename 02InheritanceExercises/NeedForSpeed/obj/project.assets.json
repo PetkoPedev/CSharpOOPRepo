@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Petko Pedev\\source\\AdvancedOOPRepos\\02InheritanceExercises\\NeedForSpeed\\NeedForSpeed.csproj",
+      "projectUniqueName": "C:\\Users\\Petko Pedev\\source\\CSharpOOPRepos\\02InheritanceExercises\\NeedForSpeed\\NeedForSpeed.csproj",
       "projectName": "NeedForSpeed",
-      "projectPath": "C:\\Users\\Petko Pedev\\source\\AdvancedOOPRepos\\02InheritanceExercises\\NeedForSpeed\\NeedForSpeed.csproj",
+      "projectPath": "C:\\Users\\Petko Pedev\\source\\CSharpOOPRepos\\02InheritanceExercises\\NeedForSpeed\\NeedForSpeed.csproj",
       "packagesPath": "C:\\Users\\Petko Pedev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Petko Pedev\\source\\AdvancedOOPRepos\\02InheritanceExercises\\NeedForSpeed\\obj\\",
+      "outputPath": "C:\\Users\\Petko Pedev\\source\\CSharpOOPRepos\\02InheritanceExercises\\NeedForSpeed\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Petko Pedev\\source\\AdvancedOOPRepos\\02InheritanceExercises\\Animals\\Animals.csproj": {}
+    "C:\\Users\\Petko Pedev\\source\\CSharpOOPRepos\\02InheritanceExercises\\Animals\\Animals.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Petko Pedev\\source\\AdvancedOOPRepos\\02InheritanceExercises\\Animals\\Animals.csproj": {
+    "C:\\Users\\Petko Pedev\\source\\CSharpOOPRepos\\02InheritanceExercises\\Animals\\Animals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Petko Pedev\\source\\AdvancedOOPRepos\\02InheritanceExercises\\Animals\\Animals.csproj",
+        "projectUniqueName": "C:\\Users\\Petko Pedev\\source\\CSharpOOPRepos\\02InheritanceExercises\\Animals\\Animals.csproj",
         "projectName": "Animals",
-        "projectPath": "C:\\Users\\Petko Pedev\\source\\AdvancedOOPRepos\\02InheritanceExercises\\Animals\\Animals.csproj",
+        "projectPath": "C:\\Users\\Petko Pedev\\source\\CSharpOOPRepos\\02InheritanceExercises\\Animals\\Animals.csproj",
         "packagesPath": "C:\\Users\\Petko Pedev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Petko Pedev\\source\\AdvancedOOPRepos\\02InheritanceExercises\\Animals\\obj\\",
+        "outputPath": "C:\\Users\\Petko Pedev\\source\\CSharpOOPRepos\\02InheritanceExercises\\Animals\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

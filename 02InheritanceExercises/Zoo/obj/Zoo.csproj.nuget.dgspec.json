@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Petko Pedev\\source\\AdvancedOOPRepos\\02InheritanceExercises\\Zoo\\Zoo.csproj": {}
+    "C:\\Users\\Petko Pedev\\source\\CSharpOOPRepos\\02InheritanceExercises\\Zoo\\Zoo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Petko Pedev\\source\\AdvancedOOPRepos\\02InheritanceExercises\\Zoo\\Zoo.csproj": {
+    "C:\\Users\\Petko Pedev\\source\\CSharpOOPRepos\\02InheritanceExercises\\Zoo\\Zoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Petko Pedev\\source\\AdvancedOOPRepos\\02InheritanceExercises\\Zoo\\Zoo.csproj",
+        "projectUniqueName": "C:\\Users\\Petko Pedev\\source\\CSharpOOPRepos\\02InheritanceExercises\\Zoo\\Zoo.csproj",
         "projectName": "Zoo",
-        "projectPath": "C:\\Users\\Petko Pedev\\source\\AdvancedOOPRepos\\02InheritanceExercises\\Zoo\\Zoo.csproj",
+        "projectPath": "C:\\Users\\Petko Pedev\\source\\CSharpOOPRepos\\02InheritanceExercises\\Zoo\\Zoo.csproj",
         "packagesPath": "C:\\Users\\Petko Pedev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Petko Pedev\\source\\AdvancedOOPRepos\\02InheritanceExercises\\Zoo\\obj\\",
+        "outputPath": "C:\\Users\\Petko Pedev\\source\\CSharpOOPRepos\\02InheritanceExercises\\Zoo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

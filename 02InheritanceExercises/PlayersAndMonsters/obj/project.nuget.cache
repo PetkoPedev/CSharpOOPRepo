@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rOBHQ+mAZxemCqVceJ6UArn1nNsVp0QUQSRNpZgxQlAQ5Q/3yshOR43egUrBzCNRrcgpOvOtxMRPzpnss3ewmQ==",
+  "dgSpecHash": "j0VBcMwmWcV3nMofFUqHUcuNk8GoTVoLzry09ZLj8wtPEzrlmloHv70InQn2ny3QYHsKiZNBtdDJdoHIN9pDoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Petko Pedev\\source\\AdvancedOOPRepos\\02InheritanceExercises\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
+  "projectFilePath": "C:\\Users\\Petko Pedev\\source\\CSharpOOPRepos\\02InheritanceExercises\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
